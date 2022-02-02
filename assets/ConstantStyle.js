@@ -1,0 +1,12 @@
+export const constantStyle = {
+  FONT_SIZE_34: 34,
+  FONT_SIZE_22: 22,
+  FONT_SIZE_14: 14,
+  FONT_SIZE_13: 13,
+  FONT_SIZE_12: 12,
+  ORANGE_COLOR: '#FC6011',
+  DARK_GRAY_COLOR: '#4A4B4D',
+  GRAY_COLOR: '#707070',
+  LIGHT_GRAY_COLOR: '#F2F2F2',
+  LOGO_FONT_FAMILY: 'Cabin',
+};
